@@ -23,8 +23,24 @@ div#container{
 img{
   margin: 0 0 0 0;
   padding: 0 0 0 0;
+  /*opacity: 0.5;*/
 }
 
 img.banner{
   padding: 50px 0 0 0;
+}
+
+#row4.disclaimer{
+  font-size:0.75em;
+  font-weight: bolder;
+  text-align: right;
+  background-color: #5a6ea0;
+  color: #ffffff;
+  width: 560px;
+  margin: 4px 0px 0px 0px;
+  padding: 30px 15px 10px 25px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  float: right;
 }
